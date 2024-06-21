@@ -1,0 +1,6 @@
+@AspNetReactTemplate.Server_HostAddress = http://localhost:5095
+
+GET {{AspNetReactTemplate.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
